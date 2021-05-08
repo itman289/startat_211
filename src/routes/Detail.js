@@ -24,6 +24,5 @@ class Detail extends React.Component {
     }
   }
 }
-console.log("a");
 
 export default Detail;

@@ -16,6 +16,5 @@ function App() {
     </BrowserRouter>
   );
 }
-console.log("a");
 
 export default App;

@@ -11,5 +11,4 @@ function Navigation() {
   );
 }
 console.log("a");
-
 export default Navigation;
