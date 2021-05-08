@@ -10,5 +10,6 @@ function Navigation() {
     </div>
   );
 }
+console.log("a");
 
 export default Navigation;
